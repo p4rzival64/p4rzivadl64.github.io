@@ -1,16 +1,17 @@
 const textConfig = {
-  text1: "He luu Hà Poodleeee!",
-  text2: "Tớ có điều này muốn hỏi cậu, cậu nhớ phải trả lời thật lòng nhé.",
-  text3: "Tớ thích cậu, nhân dịp mùa Đông năm nay, cậu làm người yêu tớ nhé?",
-  text4: "Nếu cậu không trả lời mà thoát ra tức là đồng ý rồi hen :v",
-  text5: "Không,Cậu mơ à???",
-  text6: "Đương nhiên rồi <3",
-  text7: "Cho tớ biết lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ nào <3",
-  text9: "Vì cậu đẹp try, vẽ đẹp và nghệ sĩ vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu rất nhiềuuu",
+  text1: "Chào nhóc",
+  text2: "Anh có điều này muốn hỏi, nhóc hãy trả lời thật lòng nhá",
+  text3: "Do July me?",
+  text4: "Nếu nhóc không trả lời mà thoát ra tức là đồng ý rồi hen :v",
+  text5: "Mơ à :))",
+  text6: "Yess",
+  text7: "Cho anh biết lí do nhóc thích anh đi :vvvv",
+  text8: "Gửi cho anh nào <3",
+  text9: "Vì anh đẹp try, không trẻ trâu và vui vẻ vl",
+  text10: "Anh biết mà kkk",
   text11:
-    "Cảm ơn cậu vì đã đáp lại tình cảm của tớ :v Còn giờ thì chờ gì nữa mà ko direct cho tớ đi nàooo",
+    "Cảm ơn nhóc vì đã đáp lại tình cảm của anh nhá :v 
+    Địa chỉ hẹn hôm nay là số 3 Hoa Cúc, Phú Nhuận lúc 18:00 nhá.Còn giờ thì chờ gì nữa mà ko direct cho anh đi nàooo",
   text12: "Okii lunn <3",
 };
 
